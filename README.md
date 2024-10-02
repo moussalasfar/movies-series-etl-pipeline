@@ -21,3 +21,6 @@ This project is an **ETL (Extract, Transform, Load) pipeline** designed to autom
     |-- load_data.py           # Script to load the data into MySQL
     |-- transformed_movies.csv # Output file after transforming movies
     |-- transformed_series.csv # Output file after transforming series
+    |-- create_tables.sql
+    |-- requirements.txt
+   
